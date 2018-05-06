@@ -1,2 +1,2 @@
 # BST
-my implementation of BinarySearchTree
+implementation of Set by BinarySearchTree
